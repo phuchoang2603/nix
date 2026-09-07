@@ -41,6 +41,7 @@
       "raycast"
       "visual-studio-code"
       "cursor"
+      "chatgpt"
       "obsidian"
       "zalo"
       "karabiner-elements"
