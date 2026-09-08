@@ -55,10 +55,7 @@
           "workspace 4"
           "exec-and-forget open -a 'YouTube Music'"
         ];
-        alt-5 = [
-          "workspace 5"
-          "exec-and-forget open -a 'Obsidian'"
-        ];
+        alt-5 = "workspace 5";
         alt-6 = [
           "workspace 6"
           "exec-and-forget open -a 'Finder'"
@@ -153,6 +150,12 @@
         }
         {
           "if".app-id = "md.obsidian";
+          run = [
+            "move-node-to-workspace 5"
+          ];
+        }
+        {
+          "if".app-id = "com.microsoft.onenote.mac";
           run = [
             "move-node-to-workspace 5"
           ];
