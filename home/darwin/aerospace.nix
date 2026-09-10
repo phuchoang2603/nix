@@ -51,10 +51,7 @@
           "exec-and-forget open -a kitty"
         ];
         alt-3 = "workspace 3";
-        alt-4 = [
-          "workspace 4"
-          "exec-and-forget open -a 'YouTube Music'"
-        ];
+        alt-4 = "workspace 4";
         alt-5 = "workspace 5";
         alt-6 = [
           "workspace 6"

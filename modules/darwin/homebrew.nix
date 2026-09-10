@@ -39,7 +39,6 @@
       "microsoft-powerpoint"
       "google-drive"
       "raycast"
-      "visual-studio-code"
       "cursor"
       "chatgpt"
       "obsidian"
